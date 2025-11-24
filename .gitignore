@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data
+result/
+inicial/
+
+# System
+.DS_Store
+Thumbs.db
